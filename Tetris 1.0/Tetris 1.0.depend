@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1415825585 source:c:\cbprojects\tetris 1.0\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<ctype.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+
