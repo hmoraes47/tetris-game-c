@@ -1,5 +1,4 @@
 // Tetris 1.0 32b
-// Created by Felipe Durar
 
 // IO Includes
 #include <iostream>
@@ -147,7 +146,7 @@ int main(int argc, char* args[])
         return 1;
     }
     // Set Window Caption
-    SDL_WM_SetCaption("Tetris 1.0 - Created by Felipe Durar", NULL);
+    SDL_WM_SetCaption("Tetris 1.0", NULL);
     // Load Files
     if (LoadFiles() == true)
     {
